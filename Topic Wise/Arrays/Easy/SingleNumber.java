@@ -1,6 +1,3 @@
-import java.util.*;
-
-
 //Single Number in an Array
 
 // https://leetcode.com/problems/single-number/
